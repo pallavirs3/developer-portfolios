@@ -492,6 +492,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app)
+- [Pallavi R S](https://pallavirs3.github.io/portfolio.github.io/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app/)
 - [Panhabot Bot](https://panhabot.com/)
